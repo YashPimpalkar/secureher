@@ -86,7 +86,7 @@ const Navbar = () => {
           <input type="text" placeholder='Search...' id='search-input ' className='outline-none w-[100px] focus:w-[180px] focus:border-b-2 focus:border-accent placeholder:italic placeholder:text-base transition-all duration-150 ' />
         </form>
     </nav>
-        <div id="google_translate_element"></div>
+         <div id="google_translate_element" className='flex justify-center items-center '></div>
     </div>
   )
 }
