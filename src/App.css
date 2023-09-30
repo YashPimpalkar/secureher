@@ -23,7 +23,7 @@
 
 @media only screen and (max-width: 420px) { /* Adjusts for very small screens */
     .goog-te-combo { /* This targets the dropdown specifically, adjust accordingly */
-        font-size: 12px !important; /* Adjust font size */
+        font-size: 6px !important; /* Adjust font size */
         width: 100% !important; /* Full width for small screens */
     }
 }
