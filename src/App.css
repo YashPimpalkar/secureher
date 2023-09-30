@@ -7,12 +7,11 @@
   overflow: hidden;
 }
 
- .VIpgJd-ZVi9od-ORHb{
-    font-size:10px !important;
-    }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 420px) {
     /* Hide the top banner/frame */
-  
+   .VIpgJd-ZVi9od-ORHb-bN97Pc {
+    font-size: 10px !important;
+    }
    
 }
