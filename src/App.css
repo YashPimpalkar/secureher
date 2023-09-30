@@ -17,6 +17,13 @@
   }
 
   .goog-te-gadget {
-      font-size: 5px !important;
+      font-size: 10px !important;
   }
+}
+
+@media only screen and (max-width: 420px) { /* Adjusts for very small screens */
+    .goog-te-combo { /* This targets the dropdown specifically, adjust accordingly */
+        font-size: 12px !important; /* Adjust font size */
+        width: 100% !important; /* Full width for small screens */
+    }
 }
